@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/helloworld-iamjameswalters/__init__.py
+src/helloworld-iamjameswalters/hellojw.py
+src/helloworld_iamjameswalters.egg-info/PKG-INFO
+src/helloworld_iamjameswalters.egg-info/SOURCES.txt
+src/helloworld_iamjameswalters.egg-info/dependency_links.txt
+src/helloworld_iamjameswalters.egg-info/top_level.txt
