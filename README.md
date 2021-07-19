@@ -2,7 +2,7 @@
 Learning some fundamental tasks/technologies for creating and distributing a Python app, specifically on Linux. 
 
 - [x] Create a simple Hello World script
-- [x] Start tracking the project on `git`/ GitHub
+- [x] Start tracking the project on `git` / GitHub
 - [x] Create an `__init__.py`
 - [ ] Create a `__main__.py`
 - [x] Create a `pyproject.toml`  
