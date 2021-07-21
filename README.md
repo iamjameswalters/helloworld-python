@@ -13,4 +13,7 @@ Learning some fundamental tasks/technologies for creating and distributing a Pyt
 - [ ] Create a `snapcraft.yaml`
 - [ ] Successfully build with `snapcraft`
 - [ ] Successfully upload to [snapcraft.io](http://snapcraft.io/)
+- [ ] Creat a flatpak manifest
+- [ ] Sucessfully build with `flatpak-builder`
+- [ ] Successfully upload to [Flathub](http://flathub.org/) (or some other flatpak repository)
 - [ ] Build an elementary GUI?
